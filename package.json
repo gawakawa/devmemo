@@ -15,7 +15,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "2.4.4",
 		"oxlint": "^1.32.0",
-		"oxlint-tsgolint": "^0.13.0",
+		"oxlint-tsgolint": "^0.14.2",
 		"vitest": "^4.0.1"
 	}
 }
